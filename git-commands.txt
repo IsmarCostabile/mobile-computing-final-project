@@ -1,0 +1,7 @@
+git add/rm "filename"
+
+git commit
+
+git push
+
+git pull
